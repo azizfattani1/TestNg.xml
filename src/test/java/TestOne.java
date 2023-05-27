@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 public class TestOne {
     @BeforeMethod
     public void beforMethod(){
-        
+
     }
     @Test
     public void test1(){
